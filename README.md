@@ -1,7 +1,7 @@
 # Car_Sales_Prediction
 
-In today’s dynamic automotive market, unde![vehicle-data](https://github.com/user-attachments/assets/410893b1-223f-428e-ab05-7d17162972c7)
-rstanding customer preferences and sales trends is crucial for driving business growth. This project provides data-driven insights into car sales performance, customer demographics, dealer effectiveness, and pricing strategies. By leveraging SQL for data analysis, we uncover valuable insights that empower stakeholders to make strategic business decisions.
+![vehicle-data](https://github.com/user-attachments/assets/410893b1-223f-428e-ab05-7d17162972c7)
+In today’s dynamic automotive market, understanding customer preferences and sales trends is crucial for driving business growth. This project provides data-driven insights into car sales performance, customer demographics, dealer effectiveness, and pricing strategies. By leveraging SQL for data analysis, we uncover valuable insights that empower stakeholders to make strategic business decisions.
 ________________________________________
 Objective:
 The primary goal of this project is to:
